@@ -1,6 +1,6 @@
 ﻿$packageName = 'autoruns'
 $url = 'https://download.sysinternals.com/files/Autoruns.zip'
-$checksum = '0CD567C7312F271A9C7C828EAA86E4E580886AF8C04C39F71E7B08CB089D55EE'
+$checksum = 'FE16235B91A0D9AEC0CCCE88B0024070D82576A574227A3DFFEB3A53498D2331'
 $checksumType = 'sha256'
 $url64 = "$url"
 $checksum64 = "$checksum"
